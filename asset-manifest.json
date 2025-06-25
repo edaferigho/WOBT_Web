@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WOBT_Web/static/css/main.1ebdafc9.css",
+    "main.js": "/WOBT_Web/static/js/main.77616a6c.js",
+    "static/js/787.cbfdb0b5.chunk.js": "/WOBT_Web/static/js/787.cbfdb0b5.chunk.js",
+    "static/media/church.jpeg": "/WOBT_Web/static/media/church.0356fde2cb9999a0e3c1.jpeg",
+    "static/media/youtube_thumbnail.png": "/WOBT_Web/static/media/youtube_thumbnail.5b38fbccf7af1a680898.png",
+    "static/media/convention.jpg": "/WOBT_Web/static/media/convention.498e7fd3cc1915910c81.jpg",
+    "static/media/seth.jpg": "/WOBT_Web/static/media/seth.ab7659db603f672016f2.jpg",
+    "static/media/logo.png": "/WOBT_Web/static/media/logo.76ddcb770ad4e68205e3.png",
+    "static/media/pastor1.jpg": "/WOBT_Web/static/media/pastor1.4ec7ef9b2f51ebfa0445.jpg",
+    "static/media/philip.jpg": "/WOBT_Web/static/media/philip.795c84f8c834fb47b668.jpg",
+    "index.html": "/WOBT_Web/index.html",
+    "main.1ebdafc9.css.map": "/WOBT_Web/static/css/main.1ebdafc9.css.map",
+    "main.77616a6c.js.map": "/WOBT_Web/static/js/main.77616a6c.js.map",
+    "787.cbfdb0b5.chunk.js.map": "/WOBT_Web/static/js/787.cbfdb0b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ebdafc9.css",
+    "static/js/main.77616a6c.js"
+  ]
+}
